@@ -1,6 +1,4 @@
-# Zapdos Airgapped Distribution & Release Infrastructure
-
-Standardized, audit-ready, single-layer transport container distribution for the **Zapdos** plasma physics simulation engine (built upon INL's MOOSE framework).
+#  Distribution & Release Infrastructure
 
 This repository contains automated reconstruction tools, distribution manifests, and release assets organized across **5 isolated encoding/compression strategies**.
 
