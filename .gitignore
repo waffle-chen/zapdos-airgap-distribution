@@ -1,0 +1,9 @@
+*.zip
+*.tar.gz
+__pycache__/
+dist/
+zapdos_airgapped_standalone/
+parts/
+drive-download*
+epoch*
+test_reconstruct/
