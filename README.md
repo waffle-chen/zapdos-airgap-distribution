@@ -109,7 +109,3 @@ cd zapdos_airgapped_standalone/zapdos_airgapped_bundle
 ```
 
 ---
-
-## Verification & Audit Compliance
-
-All releases are **100% non-encrypted**, audit-ready, and accompanied by comprehensive `MANIFEST.md` and `SHA256SUMS` files detailing every file transformation and pre/post-build checksum.
